@@ -8,7 +8,7 @@ a new element on stack which is already full then it will lead to exception or a
 known as stackOverFlow.
 
 2. pop(); --> delete
-If you apply pop() on empty the i will lead the condition of
+If you apply pop() on empty then it will lead the condition of
 stackUnderFlow
 
 3. peek(); --> top element without removing it from the stack
